@@ -38,13 +38,9 @@ This tool is designed for traders who do not have ultra-wide monitors but want t
 
 ---
 
-## License
 
-This project is licensed under the [Specify your license here, e.g., MIT License].
-
----
 
 ## Contact
 
-For questions or support, contact: your.email@example.com  
+For questions or support, contact: Thirtynader@gmail.com 
 Or visit the [GitHub repository](https://github.com/Thirtynader/Thirtynader-TimeFrameMirror)
