@@ -34,7 +34,7 @@ This tool is designed for traders who do not have ultra-wide monitors but want t
 
 ## Download
 
-[Download the EX5 file here](https://github.com/Thirtynader/Thirtynader-TimeFrameMirror.ex5)
+[Download the EX5 file here](https://github.com/Thirtynader/Thirtynader-TimeFrame-Mirror/releases/download/1.0.0/Thirtynader-TimeFrame.Mirror.ex5)
 
 ---
 
